@@ -4,3 +4,5 @@ git add .
 nano 1.txt
 git commit -m "first commit"
 git remote add origin " url "
+git push origin master  --- to push to remote repo
+git pull origin master  --- to pull file to local repo
