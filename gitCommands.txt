@@ -1,0 +1,6 @@
+git init
+git status
+git add . 
+nano 1.txt
+git commit -m "first commit"
+git remote add origin " url "
